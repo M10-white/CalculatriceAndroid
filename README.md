@@ -23,7 +23,7 @@ Pour utiliser cette application, sélectionnez simplement les chiffres et les op
 Pour installer l'application, clonez ce dépôt et importez-le dans [Android Studio](https://developer.android.com/studio). 
 Ensuite, vous pouvez exécuter l'application sur un émulateur ou un appareil réel : 
 
-> git clone https://github.com/username/CalculatriceAndroid.git
+> git clone [https://github.com/username/CalculatriceAndroid.git](https://github.com/M10-white/CalculatriceAndroid.git)
 
 Ouvrez Android Studio, choisissez 'Open an existing Android Studio project', et naviguez jusqu'au dossier du projet cloné.
 
