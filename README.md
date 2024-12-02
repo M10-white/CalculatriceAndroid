@@ -14,7 +14,6 @@ Ce projet est une application de calculatrice simple pour Android. Elle permet d
 ![Écran principal](/assets/appli.png)  
 
 ## Démonstration
-Voici une démonstration rapide de l'application en action :<br>
 ![Démonstration de l'application](/assets/appli.gif)  
 
 ## Comment utiliser ?
