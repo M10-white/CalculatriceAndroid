@@ -11,11 +11,11 @@ Ce projet est une application de calculatrice simple pour Android. Elle permet d
 - Prise en charge des nombres décimaux.
 
 ## Écran principal de l'application
-![Écran principal](/assets/)  
+![Écran principal](/assets/appli.png)  
 
 ## Démonstration
 Voici une démonstration rapide de l'application en action :
-![Démonstration de l'application](/assets/)  
+![Démonstration de l'application](/assets/appli.gif)  
 
 ## Comment utiliser ?
 Pour utiliser cette application, sélectionnez simplement les chiffres et les opérations sur l'écran tactile de votre appareil Android.
